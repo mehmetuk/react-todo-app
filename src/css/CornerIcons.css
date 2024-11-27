@@ -1,0 +1,25 @@
+/* Sol alt köşe için */
+.left-icon {
+    position: fixed; 
+    bottom: 20px;
+    left: 20px; 
+    width: 160px; 
+    height: 160px; 
+    z-index: 100; 
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Sağ alt köşe için */
+  .right-icon {
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px; 
+    width: 160px; 
+    height: 160px;
+    z-index: 100; 
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+  }
+  

@@ -1,0 +1,36 @@
+.todo-create {
+    display: flex;
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: center; 
+    gap: 10px; 
+    width: 100%; 
+    max-width: 800px; 
+    padding: 10px;
+    margin: 10px auto; 
+}
+
+.todo-input {
+    flex: 1; 
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid lightblue;
+    outline: none;
+    font-size: 1rem; 
+}
+
+.todo-create-button {
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 3px;
+    background-color: #4da8da; 
+    color: white; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+    font-weight: bold;
+    margin-top: 4px;
+}
+
+.todo-create-button:hover {
+    background-color: #3993c5;
+}

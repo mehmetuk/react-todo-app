@@ -1,0 +1,14 @@
+.todo-header {
+    height: 130px; 
+    width: 100%; 
+    background-image: url(../images/header.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    color: white; 
+    font-size: 6rem; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
